@@ -1,0 +1,41 @@
+[
+{
+    "items": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a444",
+        "name": "Оффер",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a333",
+        "price": 234,
+        "type": "OFFER"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a333",
+        "name": "ОфферДоппер",
+        "parentId": null,
+        "price": null,
+        "type": "CATEGORY"
+      }
+    ],
+    "updateDate": "2022-05-28T21:12:01.000Z"
+},
+
+{
+    "items": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a444",
+        "name": "Оффер",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a333",
+        "price": 134,
+        "type": "OFFER"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a333",
+        "name": "ОфферДоппер",
+        "parentId": null,
+        "price": null,
+        "type": "CATEGORY"
+      }
+    ],
+    "updateDate": "2022-05-28T21:12:02.000Z"
+}
+]

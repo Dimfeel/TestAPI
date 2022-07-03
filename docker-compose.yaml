@@ -1,0 +1,43 @@
+version: '3.1'
+
+services:
+
+  api:
+    build: 
+      context: .
+      dockerfile: src/dockerfile
+
+    container_name: api
+    hostname: api
+
+    ports:
+      - 80:80
+
+  mongo:
+    image: mongo
+    restart: always
+
+    container_name: mongodb
+    hostname: mongdb
+
+    ports:
+      - "27017:27017"
+
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGODB_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGODB_PASSWORD}
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+
+    container_name: mongo-express
+    hostname: mongo-express
+
+    ports:
+      - 8081:8081
+  
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: ${MONGODB_USERNAME}
+      ME_CONFIG_MONGODB_ADMINPASSWORD: ${MONGODB_PASSWORD}
+      ME_CONFIG_MONGODB_URL: mongodb://${MONGODB_USERNAME}:${MONGODB_PASSWORD}@mongo:27017/

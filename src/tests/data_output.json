@@ -1,0 +1,1109 @@
+{
+  "error_output": {
+    "code": 400,
+    "message": "Validation Failed"
+  },
+  "test_3_output_1": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66a015",
+    "name": "JBL Tune 500",
+    "date": "2022-05-28T12:00:00.000Z",
+    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+    "type": "OFFER",
+    "price": 3000,
+    "children": null
+  },
+  "test_3_output_2": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+    "name": "Смартфоны",
+    "date": "2022-05-28T10:00:00.000Z",
+    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+    "type": "CATEGORY",
+    "price": 18645,
+    "children": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a005",
+        "name": "Iphone XS Max",
+        "date": "2022-05-28T10:30:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "type": "OFFER",
+        "price": 23435,
+        "children": null
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a006",
+        "name": "Honor 30",
+        "date": "2022-05-28T10:30:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "type": "OFFER",
+        "price": 12500,
+        "children": null
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a007",
+        "name": "Samsung S21",
+        "date": "2022-05-28T10:30:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "type": "OFFER",
+        "price": 20000,
+        "children": null
+      }
+    ]
+  },
+  "test_3_output_3": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+    "name": "Магазин электроники",
+    "date": "2022-05-28T10:00:00.000Z",
+    "parentId": null,
+    "type": "CATEGORY",
+    "price": 13841,
+    "children": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны",
+        "date": "2022-05-28T10:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 18645,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a005",
+            "name": "Iphone XS Max",
+            "date": "2022-05-28T10:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 23435,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a006",
+            "name": "Honor 30",
+            "date": "2022-05-28T10:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 12500,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a007",
+            "name": "Samsung S21",
+            "date": "2022-05-28T10:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 20000,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+        "name": "Планшеты",
+        "date": "2022-05-28T10:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 34166,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a008",
+            "name": "Ipad Air",
+            "date": "2022-05-28T11:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+            "type": "OFFER",
+            "price": 30000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a009",
+            "name": "Ipad pro 13",
+            "date": "2022-05-28T11:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+            "type": "OFFER",
+            "price": 42500,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a010",
+            "name": "Samsung galaxy tab",
+            "date": "2022-05-28T11:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+            "type": "OFFER",
+            "price": 30000,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+        "name": "Аксессуары",
+        "date": "2022-05-28T10:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 3071,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a011",
+            "name": "Аксессуары/Чехлы",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 666,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                "name": "Аксессуары/Чехлы/Чехлы для смартфонов",
+                "date": "2022-05-28T11:30:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a011",
+                "type": "CATEGORY",
+                "price": 666,
+                "children": [
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a019",
+                    "name": "Чехол для Iphone",
+                    "date": "2022-05-28T13:00:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 1000,
+                    "children": null
+                  },
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a020",
+                    "name": "Чехол для Samsung",
+                    "date": "2022-05-28T13:00:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 500,
+                    "children": null
+                  },
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+                    "name": "Чехол для Honor",
+                    "date": "2022-05-28T13:00:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 500,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+            "name": "Аксессуары/Наушники",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 9000,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a015",
+                "name": "JBL Tune 500",
+                "date": "2022-05-28T12:00:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+                "type": "OFFER",
+                "price": 3000,
+                "children": null
+              },
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a016",
+                "name": "Airpods pro",
+                "date": "2022-05-28T12:00:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+                "type": "OFFER",
+                "price": 15000,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+            "name": "Аксессуары/Стекла и пленки",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 750,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a017",
+                "name": "Стекло для Iphone",
+                "date": "2022-05-28T12:30:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+                "type": "OFFER",
+                "price": 1000,
+                "children": null
+              },
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a018",
+                "name": "Стекло для Samsung",
+                "date": "2022-05-28T12:30:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+                "type": "OFFER",
+                "price": 500,
+                "children": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "test_4_output_1": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+    "name": "Магазин электроники",
+    "date": "2022-05-28T10:00:00.000Z",
+    "parentId": null,
+    "type": "CATEGORY",
+    "price": 14457,
+    "children": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны",
+        "date": "2022-05-28T10:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 19875,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a005",
+            "name": "Iphone XS Max",
+            "date": "2022-05-29T22:12:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 22000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a006",
+            "name": "Honor 30",
+            "date": "2022-05-28T10:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 12500,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a007",
+            "name": "Samsung S21",
+            "date": "2022-05-28T10:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 20000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a010",
+            "name": "Samsung galaxy tab",
+            "date": "2022-05-28T21:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 25000,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+        "name": "Планшеты",
+        "date": "2022-05-28T10:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 32500,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a008",
+            "name": "Ipad Air",
+            "date": "2022-05-28T11:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+            "type": "OFFER",
+            "price": 30000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a009",
+            "name": "Ipad pro 13",
+            "date": "2022-05-28T11:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+            "type": "OFFER",
+            "price": 42500,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a010",
+            "name": "Samsung galaxy tab",
+            "date": "2022-05-28T21:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 25000,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+        "name": "Аксессуары",
+        "date": "2022-05-28T10:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 3628,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a011",
+            "name": "Аксессуары/Чехлы",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 900,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                "name": "Аксессуары/Чехлы/Чехлы для смартфонов",
+                "date": "2022-05-28T11:30:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a011",
+                "type": "CATEGORY",
+                "price": 900,
+                "children": [
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a019",
+                    "name": "Чехол для Iphone",
+                    "date": "2022-05-28T13:00:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 1000,
+                    "children": null
+                  },
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a020",
+                    "name": "Чехол для Samsung",
+                    "date": "2022-05-28T13:00:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 500,
+                    "children": null
+                  },
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+                    "name": "Чехол для Honor",
+                    "date": "2022-05-28T21:22:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 1200,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+            "name": "Аксессуары/Наушники",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 10500,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a015",
+                "name": "JBL Tune 500",
+                "date": "2022-05-28T12:00:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+                "type": "OFFER",
+                "price": 3000,
+                "children": null
+              },
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a016",
+                "name": "Airpods pro",
+                "date": "2022-05-29T22:12:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+                "type": "OFFER",
+                "price": 18000,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+            "name": "Аксессуары/Стекла и пленки",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 850,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a017",
+                "name": "Стекло для Iphone",
+                "date": "2022-05-28T12:30:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+                "type": "OFFER",
+                "price": 1000,
+                "children": null
+              },
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a018",
+                "name": "Стекло для Samsung",
+                "date": "2022-05-29T22:12:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+                "type": "OFFER",
+                "price": 700,
+                "children": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "test_4_output_2": {
+    "items": []
+  },
+  "test_4_output_3": {
+    "items": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a005",
+        "name": "Iphone XS Max",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "type": "OFFER",
+        "price": 21500,
+        "date": "2022-05-28T21:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a006",
+        "name": "Honor 30",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "type": "OFFER",
+        "price": 12500,
+        "date": "2022-05-28T10:30:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a007",
+        "name": "Samsung S21",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "type": "OFFER",
+        "price": 20000,
+        "date": "2022-05-28T10:30:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a008",
+        "name": "Ipad Air",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+        "type": "OFFER",
+        "price": 30000,
+        "date": "2022-05-28T11:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a009",
+        "name": "Ipad pro 13",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+        "type": "OFFER",
+        "price": 42500,
+        "date": "2022-05-28T11:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a010",
+        "name": "Samsung galaxy tab",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "type": "OFFER",
+        "price": 25000,
+        "date": "2022-05-28T21:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a015",
+        "name": "JBL Tune 500",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+        "type": "OFFER",
+        "price": 3000,
+        "date": "2022-05-28T12:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a016",
+        "name": "Airpods pro",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+        "type": "OFFER",
+        "price": 15000,
+        "date": "2022-05-28T12:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a017",
+        "name": "Стекло для Iphone",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+        "type": "OFFER",
+        "price": 1000,
+        "date": "2022-05-28T12:30:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a018",
+        "name": "Стекло для Samsung",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+        "type": "OFFER",
+        "price": 500,
+        "date": "2022-05-28T12:30:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a019",
+        "name": "Чехол для Iphone",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+        "type": "OFFER",
+        "price": 1000,
+        "date": "2022-05-28T13:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a020",
+        "name": "Чехол для Samsung",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+        "type": "OFFER",
+        "price": 500,
+        "date": "2022-05-28T13:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+        "name": "Чехол для Honor",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+        "type": "OFFER",
+        "price": 900,
+        "date": "2022-05-28T21:00:00.000Z"
+      }
+    ]
+  },
+  "test_4_output_4": {
+    "items": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a005",
+        "name": "Iphone XS Max",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "type": "OFFER",
+        "price": 21500,
+        "date": "2022-05-28T21:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a010",
+        "name": "Samsung galaxy tab",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "type": "OFFER",
+        "price": 25000,
+        "date": "2022-05-28T21:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+        "name": "Чехол для Honor",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+        "type": "OFFER",
+        "price": 1200,
+        "date": "2022-05-28T21:22:00.000Z"
+      }
+    ]
+  },
+  "test_4_output_5": {
+    "items": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+        "name": "Чехол для Honor",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+        "type": "OFFER",
+        "price": 1200,
+        "date": "2022-05-28T21:22:00.000Z"
+      }
+    ]
+  },
+  "test_5_output_1": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+    "name": "Магазин электроники",
+    "date": "2022-05-28T10:00:00.000Z",
+    "parentId": null,
+    "type": "CATEGORY",
+    "price": 17806,
+    "children": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны и Планшеты",
+        "date": "2022-06-01T12:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 26166,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a005",
+            "name": "Iphone XS Max",
+            "date": "2022-05-29T22:12:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 22000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a006",
+            "name": "Honor 30",
+            "date": "2022-05-28T10:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 12500,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a007",
+            "name": "Samsung S21",
+            "date": "2022-05-28T10:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 20000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a010",
+            "name": "Samsung galaxy tab",
+            "date": "2022-06-01T12:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 30000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a008",
+            "name": "Ipad Air",
+            "date": "2022-06-01T12:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 30000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a009",
+            "name": "Ipad pro 13",
+            "date": "2022-06-01T12:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 42500,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a003",
+        "name": "Планшеты",
+        "date": "2022-05-28T10:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 34166,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a008",
+            "name": "Ipad Air",
+            "date": "2022-06-01T12:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 30000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a009",
+            "name": "Ipad pro 13",
+            "date": "2022-06-01T12:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 42500,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a010",
+            "name": "Samsung galaxy tab",
+            "date": "2022-06-01T12:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 30000,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+        "name": "Аксессуары",
+        "date": "2022-05-28T10:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 3628,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a011",
+            "name": "Аксессуары/Чехлы",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 900,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                "name": "Аксессуары/Чехлы/Чехлы для смартфонов",
+                "date": "2022-05-28T11:30:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a011",
+                "type": "CATEGORY",
+                "price": 900,
+                "children": [
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a019",
+                    "name": "Чехол для Iphone",
+                    "date": "2022-05-28T13:00:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 1000,
+                    "children": null
+                  },
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a020",
+                    "name": "Чехол для Samsung",
+                    "date": "2022-05-28T13:00:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 500,
+                    "children": null
+                  },
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+                    "name": "Чехол для Honor",
+                    "date": "2022-05-28T21:22:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 1200,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+            "name": "Аксессуары/Наушники",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 10500,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a015",
+                "name": "JBL Tune 500",
+                "date": "2022-05-28T12:00:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+                "type": "OFFER",
+                "price": 3000,
+                "children": null
+              },
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a016",
+                "name": "Airpods pro",
+                "date": "2022-05-29T22:12:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+                "type": "OFFER",
+                "price": 18000,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+            "name": "Аксессуары/Стекла и пленки",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 850,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a017",
+                "name": "Стекло для Iphone",
+                "date": "2022-05-28T12:30:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+                "type": "OFFER",
+                "price": 1000,
+                "children": null
+              },
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a018",
+                "name": "Стекло для Samsung",
+                "date": "2022-05-29T22:12:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+                "type": "OFFER",
+                "price": 700,
+                "children": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "test_5_output_2": {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+    "name": "Магазин электроники",
+    "date": "2022-05-28T10:00:00.000Z",
+    "parentId": null,
+    "type": "CATEGORY",
+    "price": 14030,
+    "children": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны и Планшеты",
+        "date": "2022-06-01T12:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 26166,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a005",
+            "name": "Iphone XS Max",
+            "date": "2022-05-29T22:12:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 22000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a006",
+            "name": "Honor 30",
+            "date": "2022-05-28T10:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 12500,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a007",
+            "name": "Samsung S21",
+            "date": "2022-05-28T10:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 20000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a010",
+            "name": "Samsung galaxy tab",
+            "date": "2022-06-01T12:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 30000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a008",
+            "name": "Ipad Air",
+            "date": "2022-06-01T12:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 30000,
+            "children": null
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a009",
+            "name": "Ipad pro 13",
+            "date": "2022-06-01T12:00:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+            "type": "OFFER",
+            "price": 42500,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+        "name": "Аксессуары",
+        "date": "2022-05-28T10:00:00.000Z",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 3628,
+        "children": [
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a011",
+            "name": "Аксессуары/Чехлы",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 900,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                "name": "Аксессуары/Чехлы/Чехлы для смартфонов",
+                "date": "2022-05-28T11:30:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a011",
+                "type": "CATEGORY",
+                "price": 900,
+                "children": [
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a019",
+                    "name": "Чехол для Iphone",
+                    "date": "2022-05-28T13:00:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 1000,
+                    "children": null
+                  },
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a020",
+                    "name": "Чехол для Samsung",
+                    "date": "2022-05-28T13:00:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 500,
+                    "children": null
+                  },
+                  {
+                    "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+                    "name": "Чехол для Honor",
+                    "date": "2022-05-28T21:22:00.000Z",
+                    "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+                    "type": "OFFER",
+                    "price": 1200,
+                    "children": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+            "name": "Аксессуары/Наушники",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 10500,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a015",
+                "name": "JBL Tune 500",
+                "date": "2022-05-28T12:00:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+                "type": "OFFER",
+                "price": 3000,
+                "children": null
+              },
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a016",
+                "name": "Airpods pro",
+                "date": "2022-05-29T22:12:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a012",
+                "type": "OFFER",
+                "price": 18000,
+                "children": null
+              }
+            ]
+          },
+          {
+            "id": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+            "name": "Аксессуары/Стекла и пленки",
+            "date": "2022-05-28T11:30:00.000Z",
+            "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a004",
+            "type": "CATEGORY",
+            "price": 850,
+            "children": [
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a017",
+                "name": "Стекло для Iphone",
+                "date": "2022-05-28T12:30:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+                "type": "OFFER",
+                "price": 1000,
+                "children": null
+              },
+              {
+                "id": "3fa85f64-5717-4562-b3fc-2c963f66a018",
+                "name": "Стекло для Samsung",
+                "date": "2022-05-29T22:12:00.000Z",
+                "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a013",
+                "type": "OFFER",
+                "price": 700,
+                "children": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "test_5_output_3": {
+    "items": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": null,
+        "date": "2022-05-28T10:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 18645,
+        "date": "2022-05-28T10:30:00.000Z"
+      }
+    ]
+  },
+  "test_5_output_4": {
+    "items": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 18645,
+        "date": "2022-05-28T10:30:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 19750,
+        "date": "2022-05-28T21:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 19875,
+        "date": "2022-05-29T22:12:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны и Планшеты",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": 26166,
+        "date": "2022-06-01T12:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a002",
+        "name": "Смартфоны",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a001",
+        "type": "CATEGORY",
+        "price": null,
+        "date": "2022-05-28T10:00:00.000Z"
+      }
+    ]
+  },
+  "test_5_output_5": {
+    "items": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+        "name": "Чехол для Honor",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+        "type": "OFFER",
+        "price": 1200,
+        "date": "2022-05-28T21:22:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+        "name": "Чехол для Honor",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+        "type": "OFFER",
+        "price": 900,
+        "date": "2022-05-28T21:00:00.000Z"
+      },
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66a021",
+        "name": "Чехол для Honor",
+        "parentId": "3fa85f64-5717-4562-b3fc-2c963f66a014",
+        "type": "OFFER",
+        "price": 500,
+        "date": "2022-05-28T13:00:00.000Z"
+      }
+    ]
+  }
+}
